@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DbMigrator/DbMigrator.csproj" Id="646b5fab-0afd-44d0-b65d-eb739430c408" />
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+  <Project Path="PSQL.Infrastructure/PSQL.Infrastructure.csproj" Id="70641231-9fa9-4862-9f56-961a87ae9f3b" />
+</Solution>
